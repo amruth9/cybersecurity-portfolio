@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio – Durga Siva Sai Amruth Vanka
 
 Master of Engineering (Internetworking) – Dalhousie University  
-Cybersecurity | SIEM | SOC Automation | Cloud Security
+Cybersecurity | SIEM | SOC Automation | Python
 
 ---
 
@@ -18,8 +18,6 @@ I build hands-on cybersecurity projects focused on **threat detection, automated
 - Slack & email alerting
 - Linux + Windows endpoints
 
-👉 Repository: https://github.com/yourusername/wazuh-siem-incident-response
-
 ---
 
 ## Skills
@@ -32,5 +30,5 @@ I build hands-on cybersecurity projects focused on **threat detection, automated
 ---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
+- LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sai-amruth-vanka-77349019a/
+- Gmail: saiamruth.vanka@gmail.com
