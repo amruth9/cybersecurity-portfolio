@@ -30,5 +30,5 @@ I build hands-on cybersecurity projects focused on **threat detection, automated
 ---
 
 ## Contact
-- LinkedIn: https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sai-amruth-vanka-77349019a/
+- LinkedIn: https://www.linkedin.com/in/sai-amruth-vanka-77349019a/
 - Gmail: saiamruth.vanka@gmail.com
